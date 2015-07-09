@@ -53,8 +53,16 @@ p {
 .bottomhalf h1 {
     font-size: 28px;
 }
+
 .bottomhalf p {
     margin: 0 0 100px 0;
+    color:#666666;
+    text-transform: none;
 }
+
 .align-left {
+    float:left;
+}
+.align-right {
+    float: right;
 }
