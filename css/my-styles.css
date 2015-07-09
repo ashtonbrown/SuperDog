@@ -1,6 +1,7 @@
-<<<<<<< Updated upstream
+
 body {
     background: gray;
+    font-family: "Helvetica", "Arial", Sans-Serif;
 }        
 
 .main {
@@ -46,14 +47,14 @@ p {
 
 .bottomhalf {
     background: #fff;
-=======
-
-body {
-  font-family: "Helvetica", "Arial", Sans-Serif;
+    padding: 20px 180px;
 }
 
 .bottomhalf h1 {
     font-size: 28px;
-    
->>>>>>> Stashed changes
+}
+.bottomhalf p {
+    margin: 0 0 100px 0;
+}
+.align-left {
 }
