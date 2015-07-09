@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 body {
     background: gray;
 }        
@@ -45,4 +46,14 @@ p {
 
 .bottomhalf {
     background: #fff;
+=======
+
+body {
+  font-family: "Helvetica", "Arial", Sans-Serif;
+}
+
+.bottomhalf h1 {
+    font-size: 28px;
+    
+>>>>>>> Stashed changes
 }
